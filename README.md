@@ -6,7 +6,8 @@ Simple and efficient image lazy loading functionality for the iOS written in Swi
 
 LazyLoading is demo project for showing such functionality.
 
-###Features
+### Features
+
 Asynchronous image downloader on a background thread. Main thread is never blocked.
 
 Uses URLSession background configuration to do so.
